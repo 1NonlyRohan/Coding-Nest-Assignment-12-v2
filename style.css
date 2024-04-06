@@ -1,3 +1,5 @@
+/* CSS Styling Start */
+
 *{
     margin: 0;
     padding: 0;
@@ -97,3 +99,6 @@ button a {
     transition: all 0.3s;
     color: darkgray;
 }
+
+
+/* CSS Styling End */
