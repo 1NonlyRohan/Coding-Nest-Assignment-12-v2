@@ -66,3 +66,34 @@ button a {
     color: white;
     font-size: 14px;
 }
+
+
+.line {
+    margin: 80px 100px 0px 100px;
+    border: 1px solid rgb(197, 197, 197);
+}
+
+.logo a {
+    color: crimson;
+    position: absolute;
+    margin: 50px 0px 0px 150px;
+    font-size: 30px;
+    font-family: cinzel;
+    font-weight: 900;
+}
+
+.social-links {
+    position: absolute;
+    margin: 60px 0 0 1000px;
+}
+
+.social-links .fa-xl {
+    font-size: 1.8em;
+    margin-left: 15px;
+    color: black;
+}
+
+.social-links .fa-xl:hover {
+    transition: all 0.3s;
+    color: darkgray;
+}
