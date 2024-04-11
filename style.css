@@ -45,7 +45,8 @@ button a {
 
 main img {
     position: absolute;
-    margin: 50px 0 0 800px;
+    top: 120px;
+    right: 120px;
     height: 580px;
 }
 
